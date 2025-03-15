@@ -1,0 +1,10 @@
+{
+  "id": "KTR200/booost-ghost-mine1",
+  "name": "mine1",
+  "category": "social",
+  "version": "1.0",
+  "description": "自分用のゴースト1",
+  "author": "KTR200",
+  "shortcut": "Alt+1",
+  "icon": "assets/icon.png"
+}
